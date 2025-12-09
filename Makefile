@@ -1,5 +1,5 @@
 # use PHONY to specify `all`, `clean`, `scratch` are just general commands name that you give
-.PHONY all clean scratch
+.PHONY: all clean scratch
 
 # what is the main thing that you care about
 all: 
